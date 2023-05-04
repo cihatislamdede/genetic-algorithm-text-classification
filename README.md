@@ -9,7 +9,7 @@ Genetic algorithm is a search and optimization algorithm based on the principle 
 ## Data Sets
 
 - [science_politics.csv](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
-- [sport_business.csv](https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning)
+- [sports_business.csv](https://www.kaggle.com/datasets/hadasu92/cnn-articles-after-basic-cleaning)
 - [world_sports.csv](https://www.kaggle.com/datasets/thedevastator/new-dataset-for-text-classification-ag-news?select=train.csv)
 - [sports_sci-tech.csv](https://www.kaggle.com/datasets/thedevastator/new-dataset-for-text-classification-ag-news?select=train.csv)
 - [travel_education.csv](https://www.kaggle.com/datasets/hetulmehta/website-classification)
