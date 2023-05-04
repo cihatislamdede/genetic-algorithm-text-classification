@@ -2,6 +2,10 @@
 
 Genetic algorithm is a search and optimization algorithm based on the principle of natural evolution. The algorithm tries to ‘mimic’ the concept of human evolution by modifying a set of individuals called a population, followed by a random selection of parents from this population to carry out reproduction in the form of mutation and crossover. This process continues till the stopping criterion is met. In the end, it gives the best individual/solution. [1]
 
+## GUI
+
+![GUI](https://ipfs.io/ipfs/bafkreibhzmwctq5smpz442yvecycdbpstppx336kqiegdzwksa5x2da3z4)
+
 ## Data Sets
 
 - [science_politics.csv](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
